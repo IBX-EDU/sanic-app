@@ -6,4 +6,4 @@ multidict==6.0.5
 sanic==24.6.0
 tracerite==1.1.1
 typing_extensions==4.12.2
-websockets==13.0
+websockets==13.0.1
